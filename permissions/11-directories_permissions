@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R+x */2>/dev/null
+chmod -R +x */2>/dev/null
