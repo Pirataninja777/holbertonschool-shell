@@ -1,5 +1,5 @@
-|  |  |
-|----------|------------|
+| |  |
+|------------|------------|
 |**My name is Betty**| switches the current user to the user betty.|
 |**Who am i**| prints the effective username of the current user|
 **Groups** prints all the groups the current user is part of..
