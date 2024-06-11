@@ -1,4 +1,4 @@
-|`./ File name`|DESCRIPTION      |
+|./ File name|DESCRIPTION      |
 |------------|------------|
 |**My name is Betty**|switches the current user to the user `betty`.|
 |**Who am i**|prints the effective username of the current user|
@@ -13,11 +13,9 @@
     .Owner: no permission at all
     .Group: no permission at all
     .Other users: all the permissions
-|`./ File name`|DESCRIPTION|
+|./ File name|DESCRIPTION|
 |------------|------------| 
 |**John Doe**|script that sets the mode of the file hello to this:`-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello`|
-|||
-|------------|------------|
 |**Look in the mirror**|script that sets the mode of the file `hello` the same as `olleh’s` mode.|
 |**Directories**|script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.|
 |**More directories**|script that creates a directory called `my_dir` with permissions 751 in the working directory.|
