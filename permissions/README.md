@@ -5,4 +5,5 @@
 4-Empty!-script that creates an empty file called hello.
 5-Execute-script that adds execute permission to the owner of the file hello.
 6-Multiple permissions-script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
-7Everybody-cript that adds execution permission to the owner, the group owner and the other users, to the file hello
+7Everybody-cript that adds execution permission to the owner, the group owner and the other users, to the file hell
+8
