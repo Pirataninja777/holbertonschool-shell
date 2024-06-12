@@ -1,2 +1,4 @@
 #!/bin/bash
-chmod u+x hello_world
+
+# Print "Hello, World" followed by a new line
+echo "Hello, World"
