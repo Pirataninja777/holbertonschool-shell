@@ -1,0 +1,7 @@
+#!/bin/bash
+chmod 700 *
+git add .
+echo "type commit message : "
+read message
+git commit -m message
+git push
