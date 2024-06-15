@@ -7,8 +7,8 @@
 -     The alias Command
 -     Technical Writing
 
-|   man or help|
-|--|--|--|--|--|--|--|--|--|
+ |** man| or| help**|
+|:--:|:--:|:--:|
   | `printenv`|
   | `set`|
   | `unset`|
