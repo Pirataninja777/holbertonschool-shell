@@ -1,22 +1,22 @@
 **Shell, init files, variables and expansions**
 
--    =Expansions=
+-     Expansions
 -     Shell Arithmetic
--    =Variables=
+-     Variables
 -     Shell initialization files
--    =The alias Command=
+-     The alias Command
 -     Technical Writing
 
-  =man or help=
+   man or help
 
-   `printenv`
+   =printenv=
    `set`
-   `unset`
+   =unset=
    `export`
-   `alias`
+   =alias=
    `unalias`
-   `.`
+   =.=
    `source`
-   `printf`
+   =printf=
 
 
