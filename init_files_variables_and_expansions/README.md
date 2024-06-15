@@ -2,7 +2,8 @@
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AKSJOqn9pIY" frameborder="0" allowfullscreen></iframe>
+[![Video explicativo](https://img.youtube.com/vi/AKSJOqn9pIY/0.jpg)](https://www.youtube.com/watch?v=AKSJOqn9pIY)
+
 
 -     Expansions
 -     Shell Arithmetic
