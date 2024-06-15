@@ -1,5 +1,5 @@
 **Shell, init files, variables and expansions**
-<p style="color:red;">
+<p style="color:red;"
 -     Expansions
 -     Shell Arithmetic
 -     Variables
@@ -8,11 +8,11 @@
 -     Technical Writing</p>
 
  **man or help :**`printenv``set` `unset`
-<p style="color:blue;">`export`
+<p style="color:blue;"`export`
    `alias`
   `unalias`
   `.`
    `source`
-  `printf`</p>
+  `printf`
 
 
