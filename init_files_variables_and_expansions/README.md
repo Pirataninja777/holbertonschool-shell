@@ -1,5 +1,5 @@
 <h1 style="font-size: 48px; color: darkblue;"><b>Shell, init files, variables and expansions</b></h1>
--------------------------------------------------------------------------------
+
 
 
 
