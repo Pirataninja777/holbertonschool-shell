@@ -8,7 +8,7 @@
 -     Technical Writing
 
  |** man| or| help**|
-|:--:|:--:|:--:|
+|  :-----:  |  :------:  |    :-------:    |
   | `printenv`|
   | `set`|
   | `unset`|
