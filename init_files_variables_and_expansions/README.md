@@ -4,15 +4,16 @@
 
 
 [![Video explicativo](https://img.youtube.com/vi/AKSJOqn9pIY/0.jpg)](https://www.youtube.com/watch?v=AKSJOqn9pIY)
-
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
+_____
 -     Expansions
 -     Shell Arithmetic
 -     Variables
 -     Shell initialization files
 -     The alias Command
 -     Technical Writing
-
-**man or help : **`printenv` `set` `unset` `export` `alias` `unalias` `.` `source` `printf`:rocket:
+---------------------------------------------------------------------------
+____
+:rocket: **man or help :** `printenv` `set` `unset` `export` `alias` `unalias` `.` `source` `printf`
 
 
