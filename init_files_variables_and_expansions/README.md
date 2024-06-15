@@ -4,8 +4,8 @@
 
 
 [![Video explicativo](https://img.youtube.com/vi/AKSJOqn9pIY/0.jpg)](https://www.youtube.com/watch?v=AKSJOqn9pIY)
---------------------------------------------------------------------------
-_____
+
+**************************************************************************
 -     Expansions
 -     Shell Arithmetic
 -     Variables
@@ -13,7 +13,6 @@ _____
 -     The alias Command
 -     Technical Writing
 ---------------------------------------------------------------------------
-____
 :rocket: **man or help :** `printenv` `set` `unset` `export` `alias` `unalias` `.` `source` `printf`
-
+---------------------------------------------------------------------------
 
