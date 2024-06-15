@@ -5,19 +5,19 @@
 
 [![Video explicativo](https://img.youtube.com/vi/AKSJOqn9pIY/0.jpg)](https://www.youtube.com/watch?v=AKSJOqn9pIY)
 
--    Expansions
+-    **Expansions**
 
--    Shell Arithmetic
+-    **Shell Arithmetic**
 
--    Variables
+-    **Variables**
 
--    Shell initialization files
+-    **Shell initialization files**
 
--    The alias Command
+-    **The alias Command**
 
--    Technical Writing
+-    **Technical Writing**
 
-***************************************************************************
+
 
 :rocket: **man or help :** `printenv` `set` `unset` `export` `alias` `unalias` `.` `source` `printf`
 
