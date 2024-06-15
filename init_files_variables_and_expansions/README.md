@@ -1,18 +1,16 @@
 **Shell, init files, variables and expansions**
-<p style="color:red;"
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AKSJOqn9pIY" frameborder="0" allowfullscreen></iframe>
+
 -     Expansions
 -     Shell Arithmetic
 -     Variables
 -     Shell initialization files
 -     The alias Command
--     Technical Writing</p>
+-     Technical Writing
 
- **man or help :**`printenv``set` `unset`
-<p style="color:blue;"`export`
-   `alias`
-  `unalias`
-  `.`
-   `source`
-  `printf`
+ **man or help :**`printenv``set` `unset``export``alias``unalias``.``source``printf`
 
 
